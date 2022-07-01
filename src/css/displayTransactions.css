@@ -1,0 +1,36 @@
+.transaction-item{
+    display: flex;
+    background-color: aliceblue;
+    color: black;
+    width: 515px;
+    height: 65px;
+    margin-top: 2px;
+    
+   
+    
+
+}
+
+.transaction-item h4{
+    padding-left: 15px;
+    padding-top: 25px;
+    color: rgb(70, 62, 62);
+    
+}
+
+.transaction-item h3{
+    padding-left: 265px;
+    padding-top: 25px;
+    color: rgb(70, 62, 62);
+}
+
+.Expense-line{
+    border-right: 15px solid red;
+    margin-left: 85px;
+}
+
+.Income-line{
+    border-right: 15px solid green;
+    margin-left: 85px;
+}
+

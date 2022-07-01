@@ -1,0 +1,50 @@
+input{
+    width: 500px;
+    height: 40px;
+    background-color: #fff;
+    border: none;
+    padding-left: 15px;
+    margin-top: 8px;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 2px solid grey;
+   
+
+}
+
+select{
+    width: 515px;
+    height: 30px;
+    background-color: #fff;
+    border: none;
+    padding-left: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+    color: rgb(95, 90, 90);
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 2px solid grey;
+   
+}
+
+#addBtn{
+    background-color: darkgray;
+    border-radius: 5px;
+    width: 100px;
+    height: 25px;
+    margin-top: 15px;
+    border:1px solid black;
+    color: black;
+    cursor: pointer;
+  
+
+
+}
+
+#text{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
+    color: rgb(70, 62, 62);
+    text-align: center;
+   
+}
+
